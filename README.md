@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p >
+  I am Alejandra Coeto, student of Computer Science and Technology at Tecnológico de Monterrey. 
+  I am also a Software Developer in the robotics team Roborregos, the vicepresident of the student group
+  Women in Technology and a mentor of the FIRST robotics team Voltec 6647. I love to face new challenges and look forward to sharing my passion for robotics and programming with the rest of the community.
+</p>
+
 <!--
 **Ale-Coeto/Ale-Coeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
