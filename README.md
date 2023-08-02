@@ -1,4 +1,4 @@
-## Hi, I'm, Alejandra Coeto 👋
+## Hi, I'm Alejandra Coeto 👋
 
 <p>
 I'm a Computer Science and Technology student at Tecnológico de Monterrey, a Software Developer in Roborregos robotics team, Vice President of Women in Technology, and a mentor for the FIRST robotics team Voltec 6647. I love to face new challenges and look forward to sharing my passion for robotics and programming with the rest of the community.
