@@ -31,7 +31,7 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey, a So
 ## Portfolio and Linkedin
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
           
-[Portfolio](alecoeto-portfolio.vercel.app/)
+[Portfolio](https://alecoeto-portfolio.vercel.app/)
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
