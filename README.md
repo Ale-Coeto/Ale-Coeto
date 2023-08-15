@@ -20,9 +20,11 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey, a So
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=typescript" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react" />
+<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=next" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=arduino" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mongodb" />
+<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vercel" />
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=arduino" />
 
 </div>
 <p>&nbsp;</p>
