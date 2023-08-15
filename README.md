@@ -47,5 +47,7 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey, a So
   <img height=150 width=auto src="https://leetcode-stats-six.vercel.app/?username=Ale-Coeto&theme=dark" alt="Leetcode stats" />
 
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ale-Coeto&theme=onedark&column=2&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
   
 
