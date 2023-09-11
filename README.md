@@ -42,8 +42,8 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey, a So
 
 ## Some stats :)
 <p float="left">
-  <img height=150 width=auto src="https://github-readme-stats.vercel.app/api?username=Ale-Coeto&theme=tokyonight&count_private=true&hide_border=true" alt="Github stats" />
   <img height=150 width=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Coeto&layout=compact&theme=tokyonight&hide_border=true" alt="Language stats"/>  
+  <img height=150 width=auto src="https://github-readme-stats.vercel.app/api?username=Ale-Coeto&theme=tokyonight&count_private=true&hide_border=true" alt="Github stats" />
   <img height=150 width=auto src="https://leetcode-stats-six.vercel.app/?username=Ale-Coeto&theme=dark" alt="Leetcode stats" />
 
 </p>
