@@ -25,6 +25,7 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey, a So
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mongodb" />
 <img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vercel" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=arduino" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=aws" />
 
 </div>
 <p>&nbsp;</p>
