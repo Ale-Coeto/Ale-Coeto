@@ -49,5 +49,5 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey, a So
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ale-Coeto&theme=onedark&rank=S,AA,AAA,A,B&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ale-Coeto&theme=onedark&rank=-D,-C,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
