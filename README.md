@@ -56,10 +56,11 @@ Herramientas
 
 ## Some stats :)
 <p float="left">
-  <img height=150 width=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Coeto&layout=compact&theme=tokyonight&hide_border=true" alt="Language stats"/>  
-  <img height=150 width=auto src="https://github-readme-stats.vercel.app/api?username=Ale-Coeto&theme=tokyonight&count_private=true&hide_border=true" alt="Github stats" />
-  <img height=150 width=auto src="https://leetcode-stats-six.vercel.app/?username=Ale-Coeto&theme=dark" alt="Leetcode stats" />
-
+  <img height=170 width=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Coeto&layout=compact&theme=tokyonight&hide_border=true" alt="Language stats"/>  
+  <img height=170 width=auto src="https://github-readme-stats.vercel.app/api?username=Ale-Coeto&theme=tokyonight&count_private=true&hide_border=true" alt="Github stats" />
+          <br />
+  <img height=170 width=auto src="https://leetcode-badge-showcase.vercel.app/api?username=Ale-Coeto&theme=dark" alt="LeetCode Badges"/>
+  <img height=170 width=auto src="https://leetcode-stats-six.vercel.app/?username=Ale-Coeto&theme=dark" alt="Leetcode stats" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ale-Coeto&theme=onedark&rank=-D,-C,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
