@@ -11,7 +11,7 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey, a So
 
 Lenguajes
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java&theme=light"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cpp" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=python" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=javascript" />
@@ -38,6 +38,11 @@ Herramientas
 <img align="left" alt="ROS" width="30px" style="padding-right:10px padding-top:10px;" src="https://skillicons.dev/icons?i=ros" />
 <img align="left" alt="Node" width="30px" style="padding-right:10px padding-top:10px;" src="https://skillicons.dev/icons?i=nodejs" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px padding-top:10px;" src="https://skillicons.dev/icons?i=aws" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px padding-top:10px;" src="https://skillicons.dev/icons?i=docker" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px padding-top:10px;" src="https://skillicons.dev/icons?i=flask" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px padding-top:10px;" src="https://skillicons.dev/icons?i=prisma" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px padding-top:10px;" src="https://skillicons.dev/icons?i=planetscale" />
+
 
 
 
