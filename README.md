@@ -47,7 +47,7 @@ Leetcode
 
 <p>       
   <img height=150 width=auto src="https://leetcode-badge-showcase.vercel.app/api?username=Ale-Coeto&theme=dark" alt="LeetCode Badges"/>
-  <img height=150 width=auto src="https://leetcode-stats-six.vercel.app/?username=Ale-Coeto&theme=dark" alt="Leetcode stats" />
+<!--   <img height=150 width=auto src="https://leetcode-stats-six.vercel.app/?username=Ale-Coeto&theme=dark" alt="Leetcode stats" /> -->
 </p>
 
 
