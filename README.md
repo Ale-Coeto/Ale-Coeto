@@ -19,13 +19,13 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey, a So
 
 Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,cpp,python,typescript,javascript,matlab,swift&perline=20&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,python,java,typescript,swift,javascript,matlab,&perline=20&theme=dark)](https://skillicons.dev)
 
 <br />
 
 Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,html,css,react,next,tailwind,mongodb,mysql,vercel,vscode,arduino,ros,nodejs,aws,docker,flask,prisma,planetscale&perline=20&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,html,css,react,next,tailwind,mongodb,mysql,vercel,vscode,arduino,ros,nodejs,aws,docker,flask,fastapi,prisma,opencv,planetscale&perline=20&theme=dark)](https://skillicons.dev)
 
 <p>&nbsp;</p>
 
