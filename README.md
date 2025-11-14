@@ -4,13 +4,9 @@
 I'm a Computer Science and Technology student at Tecnológico de Monterrey. I love to face new challenges and look forward to sharing my passion for robotics and programming with the rest of the community. 
 </p>
 
-<a href="https://alecoeto-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/alecoeto/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://alecoeto-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/alecoeto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Porfolio"></a>
+<a href="https://www.instagram.com/alecoeto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <p>&nbsp;</p>
 
