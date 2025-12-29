@@ -33,8 +33,8 @@ Github
 [![trophy](https://github-profile-trophy-delta-ten.vercel.app/?username=Ale-Coeto&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p float="center">
-  <img height=150 width=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Coeto&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,c%23" alt="Language stats"/>  
-  <img height=150 width=auto src="https://github-readme-stats.vercel.app/api?username=Ale-Coeto&theme=tokyonight&count_private=true&hide_border=true" alt="Github stats" />
+  <img height=150 width=auto src="https://github-readme-stats-vert-theta.vercel.app/api/top-langs/?username=Ale-Coeto&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,c%23" alt="Language stats"/>  
+  <img height=150 width=auto src="https://github-readme-stats-vert-theta.vercel.app/api?username=Ale-Coeto&theme=tokyonight&count_private=true&hide_border=true" alt="Github stats" />
 </p>
 
 <br />
