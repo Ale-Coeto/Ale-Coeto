@@ -15,7 +15,7 @@ I'm a Computer Science and Technology student at Tecnológico de Monterrey. I lo
 
 Languages
 
-[![Languages](https://skillicons.dev/icons?i=cpp,python,java,go,typescript,javascript,swift,dart,matlab,&perline=20&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,python,java,go,typescript,javascript,swift,rust,dart,matlab,&perline=20&theme=dark)](https://skillicons.dev)
 
 <br />
 
