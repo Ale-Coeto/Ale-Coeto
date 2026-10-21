@@ -34,7 +34,9 @@ Github
 
 <p float="center">
   <img height=150 width=auto src="https://github-stats-extended.vercel.app/api?username=Ale-Coeto&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Github stats" />
-  <img height=150 width=auto src="https://github-readme-stats-vert-theta.vercel.app/api/top-langs/?username=Ale-Coeto&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,c%23" alt="Language stats"/>  
+  <img height=150 width=auto src="https://gh-stats-ex-acs.vercel.app/api/top-langs/?username=Ale-Coeto&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,c%23" alt="Language stats"/>  
+
+  
 </p>
 
 <br />
